@@ -1,6 +1,6 @@
 # Location-Finder-using-Exif-Data
 
----------- PROJECT SYNOPSIS ---------- 
+---------------------------------------- PROJECT SYNOPSIS ----------------------------------------
 
 The Location Finding App with Image EXIF Data is a unique application that
 allows users to find the location and route of a place by simply uploading an image
